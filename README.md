@@ -10,8 +10,8 @@ Recently, I installed the Little Caesars app because I saw an advertisement onli
 
 <center>
 
-![image](https://hackmd.io/_uploads/BkRLR1-Afe.png =45%x) ![image](https://hackmd.io/_uploads/BJWTMlZ0Ml.png =52%x)
-
+<img width="1179" height="1431" alt="phone-apps" src="https://github.com/user-attachments/assets/c2f1ed2e-3692-473e-8cfb-af057b79874b" />
+<img width="554" height="554" alt="LC-lunch-combo" src="https://github.com/user-attachments/assets/125019ca-1f9d-4672-8129-e62f09499a0b" />
 
 </center>
 
