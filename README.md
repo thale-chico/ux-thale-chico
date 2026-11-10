@@ -42,7 +42,7 @@ I placed my order for pickup at *598 East 8th St. \#120* for as soon as possible
 
 <center>
 
-![image](https://hackmd.io/_uploads/rkQuokWRzx.png)
+<img width="888" height="604" alt="lc-getting-to-the-menu" src="https://github.com/user-attachments/assets/3c54285a-c7d1-4b81-8eed-a3630ccd91b8" />
 
 </center>
 
@@ -52,7 +52,7 @@ I was surprised when I saw the menu, as it did not follow the standard layout **
 
 <center>
 
-![image](https://hackmd.io/_uploads/H15NllbRzx.png)
+<img width="888" height="606" alt="lc-searching-the-menu" src="https://github.com/user-attachments/assets/b535792d-4b54-45f9-a5c7-c601cc7d5ba7" />
 
 </center>
 
@@ -68,7 +68,7 @@ I chose Pepsi for my drink and a pepperoni deep dish for my pizza option, and ad
 
 <center>
 
-![image](https://hackmd.io/_uploads/SyhW4xWAzl.png)
+<img width="887" height="607" alt="lc-the-lunch-deal" src="https://github.com/user-attachments/assets/fa873edf-bcfd-4006-8845-05961f09ad95" />
 
 </center>
 
@@ -82,7 +82,7 @@ Looking at the checkout page, we see the relevant information before placing our
 
 <center>
 
-![image](https://hackmd.io/_uploads/r12lUeWAzx.png)
+<img width="887" height="606" alt="lc-checkout" src="https://github.com/user-attachments/assets/6e3527b9-dd4e-44bd-bcd5-e9ac6363b0d1" />
 
 </center>
 
