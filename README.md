@@ -9,8 +9,9 @@ Currently, the [McDonald's](https://www.mcdonalds.com/us/en-us/full-menu.html) a
 Recently, I installed the Little Caesars app because I saw an advertisement online for a $5 lunch deal. This piqued my interest because I like Little Caesars due to its price-to-performance ratio; it is *cheap* but *tasty*.
 
 <center>
+  
 <img width="45%" height="45%" alt="BkRLR1-Afe" src="https://github.com/user-attachments/assets/b600e6fd-dbc9-47bc-84b7-a98a13b812b7" />
-<img width="52%" height="52%" alt="LC-lunch-combo" src="https://github.com/user-attachments/assets/125019ca-1f9d-4672-8129-e62f09499a0b" />
+<img width="54%" height="54%" alt="LC-lunch-combo" src="https://github.com/user-attachments/assets/125019ca-1f9d-4672-8129-e62f09499a0b" />
 
 </center>
 
